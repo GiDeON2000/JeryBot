@@ -51,4 +51,4 @@ async def unload(ctx, extensions):
 bot.load_extension("cogs.rep")
 
 # bot.run 
-bot.run('NzQ5OTcwODE2NTc3MzA2NzU1.X0zuwA.l3MdFLB69barpdQmKZOYXAvDlYE')
+bot.run()
