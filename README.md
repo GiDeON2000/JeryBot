@@ -1,1 +1,1 @@
-# JeryBot
+Global Discord-bot
